@@ -27,6 +27,16 @@ Official Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations
 MovieLens-1m and MovieLens-20m.
 
 
+
+
+| datasets         | #users            |   #items   |    #actions    | average length | density |
+| --------------- | --------------- | :---------: | :-----------: | :------------------: | :-------: |
+| ML-1m            | 6040  |    3416    |    1m    |        163.5        |    4.79%     |
+| ML-20m        |   138,493 |    26,744   |     20m    |       144.4         |     0.54%     |
+
+
+
+
 ### Requirements
 
 codes are tested on Python3.8.16 and 1 NVIDIA Tesla V100 SXM2 16 GB
