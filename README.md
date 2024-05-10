@@ -29,7 +29,7 @@ MovieLens-1m and MovieLens-20m.
 
 ### Requirements
 
-codes are tested on Python3.8.16 and one NVIDIA Tesla V100 SXM2 16 GB
+codes are tested on Python3.8.16 and 1 NVIDIA Tesla V100 SXM2 16 GB
 
 ```
 numpy==1.23.5
