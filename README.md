@@ -1,5 +1,31 @@
 # KAN4Rec
+
+<div align="center">
+
+<h2><a href="https://arxiv.org/pdf/2305.18405.pdf">Kolmogorov-Arnold Network (KAN) for Recommendations </a></h2>
+
+
+</div>
+
 Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations 
+
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Usage">Usage</a></li>
+    <li><a href="#acknowledgement">Acknowledgement</a></li>
+    <li><a href="#citation">Citation</a></li>
+  </ol>
+</details>
+
+
+## Usage
+
+### Datasets
+
+MovieLens-1m and MovieLens-20m.
+
 
 ### Requirements
 
