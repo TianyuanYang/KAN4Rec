@@ -24,3 +24,12 @@ wget==3.2
 Our code are partly based on the following GitHub repository. Thanks for their awesome works. 
 - [BERT4Rec-VAE-Pytorch](https://github.com/jaywonchung/BERT4Rec-VAE-Pytorch): the implement of BERT4Rec model (PyTorch version).
 - [fast-kan](https://github.com/ZiyaoLi/fast-kan): the implement of KAN (fast version). 
+
+
+## Citations
+
+If you find this repository helpful, please cite our paper (coming soon).
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
