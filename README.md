@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2><a href="https://arxiv.org/pdf/2305.18405.pdf">Kolmogorov-Arnold Network (KAN) for Recommendations </a></h2>
+<h2><a href="">Kolmogorov-Arnold Network (KAN) for Recommendations </a></h2>
 
 
 </div>
