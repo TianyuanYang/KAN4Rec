@@ -7,7 +7,7 @@
 
 </div>
 
-Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations 
+Official Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations 
 
 
 <details>
