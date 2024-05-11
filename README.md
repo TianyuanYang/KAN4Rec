@@ -52,6 +52,9 @@ wget==3.2
 ```
 
 ### Quick Start
+```
+python main.py --template train_kan4rec --lr 1e-2 --dataset_code ml-1m
+```
 
 ### Results
 
