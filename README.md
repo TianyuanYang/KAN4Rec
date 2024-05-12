@@ -7,7 +7,7 @@
 
 </div>
 <p align = "justify"> 
-Official Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations. Any communications, collaborations, issues, PRs are welcomed. The contributors will be listed [here](https://github.com/TianyuanYang/KAN4Rec?tab=readme-ov-file#Contributors). Please contact yueliu19990731@163.com or tianyuan.yang@u.nus.edu. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+Official Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations. Any communications, collaborations, issues, PRs are welcomed. The contributors will be listed at contributor part. Please contact yueliu19990731@163.com or tianyuan.yang@u.nus.edu. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 </p>
 
 <details>
