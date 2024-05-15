@@ -34,8 +34,7 @@ MovieLens-1m and MovieLens-20m.
 | ML-1m            | 6040  |    3416    |    1m    |        163.5        |    4.79%     |
 | ML-20m        |   138,493 |    26,744   |     20m    |       144.4         |     0.54%     |
 
-
-
+still updating...
 
 ### Requirements
 
@@ -51,8 +50,16 @@ wget==3.2
 ```
 
 ### Quick Start
+
+for ml-1m dataset
 ```
 python main.py --template train_kan4rec --lr 1e-2 --dataset_code ml-1m
+```
+
+for ml-20m dataset
+
+```
+python main.py --template train_kan4rec --lr 1e-2 --dataset_code ml-20m
 ```
 
 ### Results
@@ -74,6 +81,27 @@ python main.py --template train_kan4rec --lr 1e-2 --dataset_code ml-1m
 | **@20** | 0.8535 | **0.8575** |
 | **@50** | 0.9622 | **0.9635** |
 | **@100** | 0.9997 | 0.9997 |
+
+#### ML-20m
+| **NDCG** | BERT4Rec | KAN4Rec |
+| --- | --- | --- |
+| **@1** |  0.5980 | **0.5982** | 
+| **@5** | 0.7609 | **0.7612** |
+| **@10** | 0.7796 | **0.7801** |
+| **@20** | 0.7871 | 0.7871 |
+| **@50** | 0.7895 | **0.7898** |
+| **@100** | 0.7906 | **0.7908** |
+
+|**Recall** | BERT4Rec | KAN4Rec |
+|--- | --- | --- |
+|**@1** |0.5980 | **0.5982** |
+| **@5** | 0.8947 | **0.8949** |
+| **@10** | 0.9518 | **0.9526** |
+| **@20** | **0.9799** | 0.9798 |
+| **@50** | 0.9928 | 0.9928 |
+| **@100** | **0.9997** | 0.9996 |
+
+still updating...
 
 ## Acknowledgements
 
